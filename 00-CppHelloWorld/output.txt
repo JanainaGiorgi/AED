@@ -1,0 +1,3 @@
+
+C:\Users\MPF\AED>  & 'c:\Users\MPF\.vscode\extensions\ms-vscode.cpptools-1.15.4-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-2yp52ke0.5jg' '--stdout=Microsoft-MIEngine-Out-fujakuyk.00v' '--stderr=Microsoft-MIEngine-Error-4dkjow5p.kme' '--pid=Microsoft-MIEngine-Pid-rwju4vso.1tn' '--dbgExe=C:\Users\MPF\Downloads\w64devkit-1.18.0\w64devkit\bin\gdb.exe' '--interpreter=mi'
+Hola Mundo!
