@@ -1,3 +1,3 @@
-+ GCC 
-+ 12.2.0 (2022)
-+ C++ 20 
++ Compilador: GCC 
++ Versión: 12.2.0 (2022)
++ Acepta: C++ 20
